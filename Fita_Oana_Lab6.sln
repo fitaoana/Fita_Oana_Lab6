@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fita_Oana_Lab6", "Fita_Oana_Lab6\Fita_Oana_Lab6.csproj", "{E0BA55A2-6BE5-407B-B60F-5FC23D7E61A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "AutoLotModel\AutoLotModel.csproj", "{1C59D306-2D27-4D4E-9344-56C22016B85B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0BA55A2-6BE5-407B-B60F-5FC23D7E61A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0BA55A2-6BE5-407B-B60F-5FC23D7E61A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0BA55A2-6BE5-407B-B60F-5FC23D7E61A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0BA55A2-6BE5-407B-B60F-5FC23D7E61A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C59D306-2D27-4D4E-9344-56C22016B85B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C59D306-2D27-4D4E-9344-56C22016B85B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C59D306-2D27-4D4E-9344-56C22016B85B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C59D306-2D27-4D4E-9344-56C22016B85B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {281B6B55-5C51-4533-93AD-BC1F8C1A6167}
+	EndGlobalSection
+EndGlobal
